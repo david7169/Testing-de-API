@@ -1,4 +1,4 @@
-# 🔌 Testing de API para Plataforma de Reservas
+# 🔌 Testing de API
 
 Pruebas de endpoints REST en una plataforma de reservas utilizando Postman. Proyecto enfocado en asegurar la integridad de los servicios backend.
 
