@@ -33,7 +33,3 @@ Pruebas de endpoints REST en una plataforma de reservas utilizando Postman. Proy
 - Reportes de errores
 - Documentación de pruebas y hallazgos
 
-## 📸 Evidencias (opcional)
-
-- Capturas de las respuestas en Postman
-- Logs de errores con explicación técnica
